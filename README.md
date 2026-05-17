@@ -1,6 +1,6 @@
-# Notebook Skill
+# agents-notebook-skill
 
-A persistent knowledge notebook for LLM agents. Captures important facts, decisions, and discoveries across sessions so nothing valuable is lost to context limits.
+A persistent knowledge notebook skill for LLM agents. Captures important facts, decisions, and discoveries across sessions so nothing valuable is lost to context limits.
 
 ## What It Does
 
@@ -11,7 +11,7 @@ A persistent knowledge notebook for LLM agents. Captures important facts, decisi
 
 ## Installation
 
-Copy the `notebook/` directory into your skills folder, or install via your skill manager.
+Copy the `agents-notebook-skill/` directory into your skills folder, or install via your skill manager.
 
 ## How It Works
 
@@ -36,7 +36,7 @@ Triggers include: explicit commands ("remember this", "记一下"), implicit dis
 ## Contents
 
 ```
-notebook/
+agents-notebook-skill/
 ├── SKILL.md                    # English skill definition
 ├── SKILL_CN.md                 # Chinese skill definition
 ├── README.md                   # this file

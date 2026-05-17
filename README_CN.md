@@ -1,4 +1,4 @@
-# 笔记本技能（Notebook Skill）
+# agents-notebook-skill
 
 面向 LLM 代理的持久化知识笔记本。跨对话捕获重要事实、决策和发现，防止有价值的信息因上下文窗口满溢而丢失。
 
@@ -11,7 +11,7 @@
 
 ## 安装
 
-将 `notebook/` 目录复制到你的 skills 文件夹，或通过 skill 管理器安装。
+将 `agents-notebook-skill/` 目录复制到你的 skills 文件夹，或通过 skill 管理器安装。
 
 ## 工作原理
 
@@ -36,7 +36,7 @@ LLM 获得新的事实性信息时：
 ## 目录结构
 
 ```
-notebook/
+agents-notebook-skill/
 ├── SKILL.md                    # 英文版技能定义
 ├── SKILL_CN.md                 # 中文版技能定义
 ├── README.md                   # 英文说明

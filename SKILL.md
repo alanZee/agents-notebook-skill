@@ -1,5 +1,5 @@
 ---
-name: notebook
+name: agents-notebook-skill
 description: >
   Use this skill to save information that would otherwise be lost when the conversation
   ends. Trigger when the user wants something recorded for future reference — either
@@ -87,7 +87,7 @@ Insert this block (exact content, no modifications):
 
 ## Notebook
 
-- **Skill**: `notebook` — 持久化知识笔记本，跨对话记录重要事实、决策和发现
+- **Skill**: `agents-notebook-skill` — 持久化知识笔记本，跨对话记录重要事实、决策和发现
 - **笔记目录**: `.agents-notebooks/`（当前工作目录下）
 - **用途**: 记录用户偏好、项目约束、外部事实、关键决策、领域洞察等
 - **使用**: 当获得值得记住的新信息时自动触发；也可手动触发记录或回忆已有笔记

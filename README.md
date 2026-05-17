@@ -1,4 +1,5 @@
 # agents-notebook-skill
+[中文版](README_CN.md)
 
 A persistent knowledge notebook skill for LLM agents. Captures important facts, decisions, and discoveries across sessions so nothing valuable is lost to context limits.
 

@@ -1,4 +1,5 @@
 # agents-notebook-skill
+[English](README.md)
 
 面向 LLM 代理的持久化知识笔记本。跨对话捕获重要事实、决策和发现，防止有价值的信息因上下文窗口满溢而丢失。
 
